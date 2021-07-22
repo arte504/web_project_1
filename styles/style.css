@@ -277,10 +277,6 @@
   padding: 60px 0 40px 0;
 }
 
-.logo_place_footer {
-  background-image: url(../images/logo_place_footer.png);  
-}
-
 .footer__columns {
   display: flex;
   justify-content: space-between;
@@ -295,14 +291,30 @@
 .footer__column_content_copyright {
   flex-basis: 711px;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: stretch;
+  align-items: stretch;
 }
 
 .footer__author {
+  order: 2;
+  flex: 0 1 auto;
+  align-self: auto;
   left: 0;
   bottom: 0;
   line-height: 25px;
   font-size: 18px;
   color: #fff;
+}
+
+.logo_place_footer {
+  order: 1;
+  flex: 0 1 auto;
+  align-self: auto;
+  background-image: url(../images/logo_place_footer.png); 
 }
 
 .footer__column-heading {
