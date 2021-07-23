@@ -16,11 +16,6 @@
   overflow: hidden;
 }
 
-h1 h2 h3 h4{
-  margin: 0;
-  padding: 0;
-}
-
 .logo {
   width: 154px;
   height: 31px;
@@ -36,6 +31,8 @@ h1 h2 h3 h4{
 }
 
 .header__title {
+  margin: 0;
+  padding: 0;
   line-height: 96px;
   font-size: 102px;
   width: 730px;
@@ -73,7 +70,6 @@ h1 h2 h3 h4{
   position: absolute;
   top: 64px;
   right: 0;
-  transform: rotate(-15deg);
 }
 
 .header__main-illustration {
@@ -110,9 +106,6 @@ h1 h2 h3 h4{
 .two-columns__main-text {
   width: 80%;
   min-width: 784px;
-}
-
-.two-columns span{
   margin: 0;
   padding: 0;
 }
@@ -275,13 +268,14 @@ h1 h2 h3 h4{
   min-height: 350px;
   box-sizing: border-box;
   padding: 60px 0 40px 0;
+  display: flex;
 }
 
 .footer__columns {
-  height: 100%;
   justify-content: space-between;
   width: 90%;
   margin: 0 auto;
+  display: flex;
 }
 
 .footer__column {
@@ -311,9 +305,12 @@ h1 h2 h3 h4{
   order: 2;
   flex: 0 1 auto;
   align-self: auto;
+  padding: 0;
+  margin: 0;
   line-height: 25px;
   font-size: 18px;
   color: #fff;
+  margin-bottom: 18px;
 }
 
 .footer__column-heading {
@@ -324,13 +321,9 @@ h1 h2 h3 h4{
   margin-bottom: 20px;
 }
 
-.footer__column-links ul{
-  padding: 0;
-  margin: 0;
-}
-
 .footer__column-links {
   padding: 0;
+  margin: 0;
 }
 
 .footer__list-item {
