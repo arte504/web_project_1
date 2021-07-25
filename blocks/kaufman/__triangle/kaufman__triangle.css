@@ -8,16 +8,16 @@
   }
 
 .kaufman__triangle {
-  width: 660px; 
-  height: 636px; 
-  background-image: url("/images/kaufman-triangle.svg"); 
-  background-size: contain; 
-  background-position: center; 
-  background-repeat: no-repeat; 
-  position: absolute; 
-  bottom: 0; 
-  right: -124px; 
-  z-index: 0; 
+  width: 660px;
+  height: 636px;
+  background-image: url("/images/kaufman-triangle.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  bottom: 0;
+  right: -124px;
+  z-index: 0;
   overflow: hidden;
-  animation: rotation linear 20s infinite; 
+  animation: rotation linear 20s infinite;
   }
