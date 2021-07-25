@@ -1,4 +1,4 @@
- <h1 align="center"> | Project name - "Learning how to learn" web page | <h1>
+ <h1 align="center"> | Project name - "Learning how to learn" web page | </h1>
   <br>
    
  | About the project: |
