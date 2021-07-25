@@ -1,8 +1,6 @@
-   _________________________________________________
   | Project name - "Learning how to learn" web page |
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
    
-  ____________________
  | About the project: |
   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
   * One page that speak about one problem, the main problem with education.
