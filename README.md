@@ -1,5 +1,5 @@
   | Project name - "Learning how to learn" web page |
-   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  <br>
    
  | About the project: |
   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
