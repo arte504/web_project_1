@@ -1,11 +1,11 @@
  <h1 align="center"> :page_facing_up: Project name - "Learning how to learn" web page :page_facing_up: </h1>
   <br>
    
- <h2> | About the project: | </h2>
+ <h2 align="center"> About the project: :grey_question: </h2>
   One page that speak about one problem, the main problem with education. Although show some ways to overcome this problem in text variety and video variety. One story about struggle of learning foreign language. As well speaking some facts and numbers around the subject.
   <br>
  
- <h2> | Functionality and technologies that was used in the creation: | </h2>
+ <h2> Functionality and technologies that was used in the creation: ⚙️ </h2>
   <ul>
     <li> Have links to another resources including link to the book that represented on the page. </li>
     <li> "iFrame" - For the youtube videos. </li>
