@@ -48,7 +48,7 @@
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/_theme/table_cell_theme_dark.css);
-@import url(../blocks/table/_theme/table_theme_dark_kaufman.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
 
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__author/khan__author.css);
