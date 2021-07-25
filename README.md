@@ -1,4 +1,4 @@
- <h1 align="center"> | Project name - "Learning how to learn" web page | </h1>
+ <h1 align="center"> :page_facing_up: Project name - "Learning how to learn" web page :page_facing_up: </h1>
   <br>
    
  <h2> | About the project: | </h2>
