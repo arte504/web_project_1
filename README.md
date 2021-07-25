@@ -1,9 +1,4 @@
- <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-  
- | Project name - "Learning how to learn" web page |
+ <h1 align="center"> | Project name - "Learning how to learn" web page | <h1>
   <br>
    
  | About the project: |
