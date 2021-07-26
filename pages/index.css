@@ -76,11 +76,11 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__column/footer__column.css);
-@import url(../blocks/footer/__column/_content-copyright/footer__column_content-copyright.css);
+@import url(../blocks/footer/__column/footer__column-content-copyright.css);
 @import url(../blocks/logo/__place/_footer/logo_place_footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/footer/__column/_heading/footer__column_heading.css);
-@import url(../blocks/footer/__column/_links/footer__column_links.css);
-@import url(../blocks/footer/__list/_item/footer__list_item.css);
+@import url(../blocks/footer/__column/footer__column-heading.css);
+@import url(../blocks/footer/__column/footer__column-links.css);
+@import url(../blocks/footer/__list-item/footer__list-item.css);
 @import url(../blocks/footer/__link/footer__link.css);
-@import url(../blocks/footer/__social/_icon/footer__social_icon.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
