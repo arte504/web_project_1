@@ -18,10 +18,10 @@
 @import url(../blocks/two-colums/__paragraph/two-colums__paragraph.css);
 @import url(../blocks/two-colums/__span-bold/two-colums__span-bold.css);
 
-@import url(../blocks/section/__title/section__title.css);
-@import url(../blocks/section/__title/_theme/section__title_theme_dark.css);
-@import url(../blocks/section/__subtitle/section__subtitle.css);
-@import url(../blocks/section/__subtitle/_theme/section__subtitle_theme_dark.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
